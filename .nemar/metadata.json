@@ -1,0 +1,85 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "validated",
+  "authors": {
+    "Bhoj Raj Thapa": {
+      "orcid": "0009-0000-6102-117X"
+    },
+    "John Boggess": {},
+    "Jihye Bae": {}
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.1038/s41597-025-06039-9",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "10.6084/m9.figshare.28632599",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000324",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/nm000324",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.21105/joss.01896",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.1038/s41597-019-0104-8",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    }
+  ],
+  "title": "Thapa2025",
+  "license": "CC-BY-4.0",
+  "dataset_type": "derivative",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "eeg"
+  ],
+  "resource_type_specific": "EEG Dataset",
+  "sizes": [
+    "2.53 GB (241 files)"
+  ],
+  "formats": [
+    ".edf",
+    ".json",
+    ".tsv",
+    ".yaml"
+  ],
+  "description": "A scalp EEG dataset of self-paced (freewill) reach-and-grasp motor execution recorded from 23 healthy right-handed participants across 49 sessions, yielding 6808 trials. On each trial, participants freely chose one of four cups (two water-filled, two empty) and the timing of the movement, defining four target classes. The dataset supports brain-machine interface research on movement decoding. This BIDS version was prepared for use with MOABB.",
+  "methods_description": "EEG was recorded at 250 Hz with a Brain Products actiCHamp Plus system and actiCAP snap active gel electrodes (31 EEG channels, 4 EOG channels, plus accelerometer and audio cue channels), referenced to Cz, using the standard 10-20 montage. Audio cues marked the start and end of each self-paced reach-and-grasp trial. Each participant completed up to 3 sessions of 5 runs.",
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "reach and grasp"
+    },
+    {
+      "term": "motor execution"
+    },
+    {
+      "term": "brain-machine interface"
+    },
+    {
+      "term": "freewill"
+    },
+    {
+      "term": "Brain-Computer Interfaces",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
+    }
+  ],
+  "source_hash": "29ec8d5196c7cbfeaecd3b2f8e07657af424227f1eb72bc3006ce74b5c635c25"
+}
