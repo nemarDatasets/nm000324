@@ -1,0 +1,146 @@
+_dataset:
+  class: Thapa2025
+  code: Thapa2025
+  doi: 10.1038/s41597-025-06039-9
+  interval:
+  - 0
+  - 4
+  n_subjects: 23
+  paradigm: imagery
+acquisition:
+  auxiliary_channels:
+    eog_channels: 4
+    eog_type:
+    - horizontal
+    - vertical
+    has_eog: true
+    other_physiological:
+    - accelerometer
+    - audio_cue
+  cap_manufacturer: Brain Products
+  cap_model: actiCAP snap
+  channel_types:
+    eeg: 31
+    eog: 4
+    misc: 4
+  electrode_type: active
+  filters: none
+  ground: GND
+  hardware: Brain Products actiCHamp Plus (actiCAP snap, gel-based active electrodes)
+  line_freq: 60.0
+  montage: standard_1020
+  reference: Cz
+  sampling_rate: 250.0
+  sensor_type: scalp EEG
+  sensors:
+  - Fp1
+  - Fp2
+  - F7
+  - F3
+  - Fz
+  - F4
+  - F8
+  - FT9
+  - FC5
+  - FC1
+  - FC2
+  - FC6
+  - FT10
+  - T7
+  - C3
+  - C4
+  - T8
+  - TP9
+  - CP5
+  - CP1
+  - CP2
+  - CP6
+  - TP10
+  - P7
+  - P3
+  - Pz
+  - P4
+  - P8
+  - O1
+  - Oz
+  - O2
+bci_application:
+  applications:
+  - motor_control
+  environment: laboratory
+cross_validation:
+  evaluation_type:
+  - within_subject
+  - cross_session
+data_structure:
+  n_trials: 6808
+  trials_context: 6808 trials across 23 subjects and 49 sessions
+documentation:
+  country: US
+  data_url: https://doi.org/10.6084/m9.figshare.28632599
+  description: 'A large EEG database of freewill reaching and grasping tasks for brain-machine interfaces: 23 subjects, 49
+    sessions, 6808 self-paced reach-and-grasp trials toward one of four cups.'
+  doi: 10.1038/s41597-025-06039-9
+  institution: University of Kentucky
+  institution_department: Department of Electrical and Computer Engineering
+  investigators:
+  - Bhoj Raj Thapa
+  - John Boggess
+  - Jihye Bae
+  keywords:
+  - EEG
+  - reach and grasp
+  - motor execution
+  - brain-machine interface
+  - freewill
+  license: CC-BY-4.0
+  publication_year: 2025
+  repository: Figshare
+  senior_author: Jihye Bae
+experiment:
+  class_labels:
+  - Tgt1
+  - Tgt2
+  - Tgt3
+  - Tgt4
+  events:
+    Tgt1: 1
+    Tgt2: 2
+    Tgt3: 3
+    Tgt4: 4
+  feedback_type: none
+  mode: offline
+  n_classes: 4
+  paradigm: imagery
+  primary_modality: auditory
+  stimulus_modalities:
+  - auditory
+  stimulus_type: audio start/end cue
+  study_design: 'Self-paced freewill reach-and-grasp: the subject freely chooses one of four cups and the timing of movement.
+    Four cups (two water-filled, two empty) define the four classes.'
+  synchronicity: self-paced
+  task_type: motor execution
+  trial_duration: 12.0
+file_format: BrainVision (BIDS)
+paradigm_specific:
+  detected_paradigm: motor_imagery
+  n_targets: 4
+participants:
+  age_max: 24.0
+  age_min: 18.0
+  gender:
+    female: 8
+    male: 15
+  handedness: right
+  health_status: healthy
+  n_subjects: 23
+  species: human
+runs_per_session: 5
+sessions_per_subject: 3
+tags:
+  modality:
+  - Motor
+  pathology:
+  - Healthy
+  type:
+  - Research

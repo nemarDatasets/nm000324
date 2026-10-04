@@ -1,0 +1,38 @@
+{
+    "Name": "Thapa2025",
+    "BIDSVersion": "1.9.0",
+    "HEDVersion": "8.4.0",
+    "DatasetType": "derivative",
+    "License": "CC-BY-4.0",
+    "Authors": [
+        "Bhoj Raj Thapa",
+        "John Boggess",
+        "Jihye Bae"
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.6084/m9.figshare.28632599"
+    ],
+    "Keywords": [
+        "EEG",
+        "reach and grasp",
+        "motor execution",
+        "brain-machine interface",
+        "freewill"
+    ],
+    "DatasetDOI": "doi:10.1038/s41597-025-06039-9",
+    "GeneratedBy": [
+        {
+            "CodeURL": "https://github.com/NeuroTechX/moabb",
+            "Name": "moabb",
+            "Description": "Mother of All BCI Benchmarks",
+            "Version": "1.8.0dev0"
+        }
+    ],
+    "SourceDatasets": [
+        {
+            "DOI": "10.1038/s41597-025-06039-9",
+            "URL": "https://doi.org/10.6084/m9.figshare.28632599"
+        }
+    ],
+    "PublicationYear": 2025
+}

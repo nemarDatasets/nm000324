@@ -1,0 +1,36 @@
+{
+	"TaskName": "imagery",
+	"Manufacturer": "Brain Products",
+	"PowerLineFrequency": 60.0,
+	"SamplingFrequency": 250.0,
+	"SoftwareFilters": "n/a",
+	"RecordingDuration": 499.996,
+	"RecordingType": "continuous",
+	"EEGReference": "Cz",
+	"EEGGround": "GND",
+	"EEGPlacementScheme": "10-20 system",
+	"EEGChannelCount": 31,
+	"EOGChannelCount": 0,
+	"ECGChannelCount": 0,
+	"EMGChannelCount": 0,
+	"TriggerChannelCount": 0,
+	"ManufacturersModelName": "Brain Products actiCHamp Plus (actiCAP snap, gel-based active electrodes)",
+	"CapManufacturer": "Brain Products",
+	"CapManufacturersModelName": "actiCAP snap",
+	"SoftwareVersions": "n/a",
+	"HardwareFilters": {
+		"HardwareFilter": {
+			"Description": "none"
+		}
+	},
+	"TaskDescription": "[motor execution] Self-paced freewill reach-and-grasp: the subject freely chooses one of four cups and the timing of movement. Four cups (two water-filled, two empty) define the four classes. Trial duration: 12.0s.",
+	"Instructions": "n/a",
+	"CogAtlasID": "https://www.cognitiveatlas.org/task/id/trm_4c8a834779883/",
+	"InstitutionName": "University of Kentucky",
+	"InstitutionAddress": "US",
+	"InstitutionalDepartmentName": "Department of Electrical and Computer Engineering",
+	"SubjectArtefactDescription": "n/a",
+	"DeviceSerialNumber": "n/a",
+	"Description": "A large EEG database of freewill reaching and grasping tasks for brain-machine interfaces: 23 subjects, 49 sessions, 6808 self-paced reach-and-grasp trials toward one of four cups.",
+	"MISCChannelCount": 0
+}
