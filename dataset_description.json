@@ -1,5 +1,5 @@
 {
-    "Name": "Thapa2025",
+    "Name": "Thapa2025: Freewill reach-and-grasp motor-execution dataset from Thapa et al. 2025",
     "BIDSVersion": "1.9.0",
     "HEDVersion": "8.4.0",
     "DatasetType": "derivative",
@@ -34,5 +34,8 @@
             "URL": "https://doi.org/10.6084/m9.figshare.28632599"
         }
     ],
-    "PublicationYear": 2025
+    "PublicationYear": 2025,
+    "EthicsApprovals": [
+        "See the primary publication cited in the README/ReferencesAndLinks for the ethics approval statement obtained by the original investigators; no new human-subject data were collected for this BIDS re-release."
+    ]
 }
