@@ -1,6 +1,11 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
+  "title": "Thapa2025: Freewill reach-and-grasp motor-execution dataset from Thapa et al. 2025",
+  "description": "A large EEG database of self-paced (freewill) reach-and-grasp motor execution, recorded from 23 healthy right-handed participants across 49 sessions. Participants freely chose one of four cups and the timing of movement, yielding 6808 trials in four target classes. Data were recorded with a 31-channel EEG cap plus EOG and auxiliary channels, and are intended for brain-machine interface research. This BIDS version was re-released via MOABB.",
+  "methods_description": "EEG was recorded at 250 Hz with a Brain Products actiCHamp Plus amplifier and actiCAP snap active gel electrodes (31 EEG channels, 4 EOG, plus accelerometer and audio cue channels), referenced to Cz. Participants performed self-paced reach-and-grasp movements toward one of four cups (two water-filled, two empty), with audio cues marking start and end of each trial, in 5 runs per session.",
+  "license": "CC-BY-4.0",
+  "dataset_type": "derivative",
   "authors": {
     "Bhoj Raj Thapa": {
       "orcid": "0009-0000-6102-117X"
@@ -8,6 +13,28 @@
     "John Boggess": {},
     "Jihye Bae": {}
   },
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "Electroencephalography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
+    },
+    {
+      "term": "reach and grasp"
+    },
+    {
+      "term": "motor execution"
+    },
+    {
+      "term": "brain-machine interface"
+    },
+    {
+      "term": "freewill"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.1038/s41597-025-06039-9",
@@ -40,14 +67,11 @@
       "relation_type": "References"
     }
   ],
-  "title": "Thapa2025",
-  "license": "CC-BY-4.0",
-  "dataset_type": "derivative",
   "resource_type_general": "Dataset",
+  "resource_type_specific": "EEG Dataset",
   "modalities": [
     "eeg"
   ],
-  "resource_type_specific": "EEG Dataset",
   "sizes": [
     "2.53 GB (241 files)"
   ],
@@ -55,31 +79,8 @@
     ".edf",
     ".json",
     ".tsv",
-    ".yaml"
+    ".yaml",
+    ".yml"
   ],
-  "description": "A scalp EEG dataset of self-paced (freewill) reach-and-grasp motor execution recorded from 23 healthy right-handed participants across 49 sessions, yielding 6808 trials. On each trial, participants freely chose one of four cups (two water-filled, two empty) and the timing of the movement, defining four target classes. The dataset supports brain-machine interface research on movement decoding. This BIDS version was prepared for use with MOABB.",
-  "methods_description": "EEG was recorded at 250 Hz with a Brain Products actiCHamp Plus system and actiCAP snap active gel electrodes (31 EEG channels, 4 EOG channels, plus accelerometer and audio cue channels), referenced to Cz, using the standard 10-20 montage. Audio cues marked the start and end of each self-paced reach-and-grasp trial. Each participant completed up to 3 sessions of 5 runs.",
-  "keywords": [
-    {
-      "term": "EEG"
-    },
-    {
-      "term": "reach and grasp"
-    },
-    {
-      "term": "motor execution"
-    },
-    {
-      "term": "brain-machine interface"
-    },
-    {
-      "term": "freewill"
-    },
-    {
-      "term": "Brain-Computer Interfaces",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
-    }
-  ],
-  "source_hash": "29ec8d5196c7cbfeaecd3b2f8e07657af424227f1eb72bc3006ce74b5c635c25"
+  "source_hash": "2533f200892d986ee31d837479d192c34d8c8fd197bba35d51e0a21a577455a8"
 }
