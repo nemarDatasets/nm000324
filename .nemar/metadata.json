@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Thapa2025: Freewill reach-and-grasp motor-execution dataset from Thapa et al. 2025",
-  "description": "A large EEG database of self-paced (freewill) reach-and-grasp motor execution, recorded from 23 healthy right-handed participants across 49 sessions. Participants freely chose one of four cups and the timing of movement, yielding 6808 trials in four target classes. Data were recorded with a 31-channel EEG cap plus EOG and auxiliary channels, and are intended for brain-machine interface research. This BIDS version was re-released via MOABB.",
-  "methods_description": "EEG was recorded at 250 Hz with a Brain Products actiCHamp Plus amplifier and actiCAP snap active gel electrodes (31 EEG channels, 4 EOG, plus accelerometer and audio cue channels), referenced to Cz. Participants performed self-paced reach-and-grasp movements toward one of four cups (two water-filled, two empty), with audio cues marking start and end of each trial, in 5 runs per session.",
+  "description": "A BIDS-formatted EEG dataset of self-paced (freewill) reach-and-grasp motor execution from 23 healthy right-handed participants across 49 sessions, totaling 6808 trials. Participants freely chose one of four cups (two water-filled, two empty) and the timing of their movement while 31-channel scalp EEG, EOG, and auxiliary signals were recorded at 250 Hz. The dataset is intended for developing brain-machine interfaces and decoding movement intent.",
+  "methods_description": "EEG was recorded with a Brain Products actiCHamp Plus system using actiCAP snap active gel electrodes (31 EEG channels, 4 EOG, plus accelerometer and audio cue channels) at 250 Hz, referenced to Cz. Participants performed self-paced reach-and-grasp movements toward one of four cups, with audio cues marking trial start and end, in 5 runs per session.",
   "license": "CC-BY-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -18,21 +18,26 @@
       "term": "EEG"
     },
     {
-      "term": "Electroencephalography",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
+      "term": "motor execution"
     },
     {
       "term": "reach and grasp"
     },
     {
-      "term": "motor execution"
-    },
-    {
       "term": "brain-machine interface"
     },
     {
-      "term": "freewill"
+      "term": "freewill movement"
+    },
+    {
+      "term": "Electroencephalography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
+    },
+    {
+      "term": "Brain-Computer Interfaces",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
     }
   ],
   "related_identifiers": [
@@ -82,5 +87,5 @@
     ".yaml",
     ".yml"
   ],
-  "source_hash": "2533f200892d986ee31d837479d192c34d8c8fd197bba35d51e0a21a577455a8"
+  "source_hash": "34132236acf6fb99c574c88113ab827b457b4866ec070cd7ee0c5c0c259bf4cb"
 }
