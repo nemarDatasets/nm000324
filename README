@@ -9,7 +9,7 @@ Dataset Overview
   Paradigm: imagery
   DOI: 10.1038/s41597-025-06039-9
   Subjects: 23
-  Sessions per subject: 3
+  Sessions per subject: 1-3 (loader default declares 3; deposited tree holds 49 sessions across 23 subjects, distribution: 2 subjects have 1 session (sub-02, sub-17), 16 subjects have 2 sessions, 5 subjects have 3 sessions)
   Events: Tgt1=1, Tgt2=2, Tgt3=3, Tgt4=4
   Trial interval: [0, 4] s
   Runs per session: 5
