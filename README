@@ -138,3 +138,13 @@ new human-subject data were collected during this BIDS re-release; this
 NEMAR record only reformats the published source data into BIDS via MOABB.
 Please consult the primary publication for the exact IRB/ethics committee
 reference.
+
+## Ethics
+
+Conducted under the approved University of Kentucky Institutional Review Board (IRB) protocol #57031. Participants provided written consent for data collection and for de-identified data to be shared indefinitely (Thapa, Boggess & Bae 2025, Sci. Data, DOI 10.1038/s41597-025-06039-9).
+
+Verbatim from the source:
+
+> This study was conducted following the approved University of Kentucky Institutional Review Board (IRB) protocol #57031. ... Before data collection, all participants were informed of the study's purpose and procedures, and they provided written consent for data collection and permission to have de-identified data to be shared and available indefinitely.
+
+Source: cached paper .paper-audit/Thapa2025/paper-10_1038_s41597_025_06039_9.txt (Thapa, Boggess & Bae 2025, Sci. Data, DOI 10.1038/s41597-025-06039-9).

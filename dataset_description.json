@@ -36,6 +36,6 @@
     ],
     "PublicationYear": 2025,
     "EthicsApprovals": [
-        "See the primary publication cited in the README/ReferencesAndLinks for the ethics approval statement obtained by the original investigators; no new human-subject data were collected for this BIDS re-release."
+        "Conducted under the approved University of Kentucky Institutional Review Board (IRB) protocol #57031. Participants provided written consent for data collection and for de-identified data to be shared indefinitely (Thapa, Boggess & Bae 2025, Sci. Data, DOI 10.1038/s41597-025-06039-9)."
     ]
 }
