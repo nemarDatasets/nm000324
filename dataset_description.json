@@ -1,41 +1,45 @@
 {
-    "Name": "Thapa2025: Freewill reach-and-grasp motor-execution dataset from Thapa et al. 2025",
-    "BIDSVersion": "1.9.0",
-    "HEDVersion": "8.4.0",
-    "DatasetType": "derivative",
-    "License": "CC-BY-4.0",
-    "Authors": [
-        "Bhoj Raj Thapa",
-        "John Boggess",
-        "Jihye Bae"
-    ],
-    "ReferencesAndLinks": [
-        "https://doi.org/10.6084/m9.figshare.28632599"
-    ],
-    "Keywords": [
-        "EEG",
-        "reach and grasp",
-        "motor execution",
-        "brain-machine interface",
-        "freewill"
-    ],
-    "DatasetDOI": "doi:10.1038/s41597-025-06039-9",
-    "GeneratedBy": [
-        {
-            "CodeURL": "https://github.com/NeuroTechX/moabb",
-            "Name": "moabb",
-            "Description": "Mother of All BCI Benchmarks",
-            "Version": "1.8.0dev0"
-        }
-    ],
-    "SourceDatasets": [
-        {
-            "DOI": "10.1038/s41597-025-06039-9",
-            "URL": "https://doi.org/10.6084/m9.figshare.28632599"
-        }
-    ],
-    "PublicationYear": 2025,
-    "EthicsApprovals": [
-        "Conducted under the approved University of Kentucky Institutional Review Board (IRB) protocol #57031. Participants provided written consent for data collection and for de-identified data to be shared indefinitely (Thapa, Boggess & Bae 2025, Sci. Data, DOI 10.1038/s41597-025-06039-9)."
-    ]
+  "Name": "Thapa2025: Freewill reach-and-grasp motor-execution dataset from Thapa et al. 2025",
+  "BIDSVersion": "1.9.0",
+  "HEDVersion": "8.4.0",
+  "DatasetType": "derivative",
+  "License": "CC-BY-4.0",
+  "Authors": [
+    "Bhoj Raj Thapa",
+    "John Boggess",
+    "Jihye Bae"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.6084/m9.figshare.28632599"
+  ],
+  "Keywords": [
+    "EEG",
+    "reach and grasp",
+    "motor execution",
+    "brain-machine interface",
+    "freewill"
+  ],
+  "DatasetDOI": "10.82901/nemar.nm000324",
+  "GeneratedBy": [
+    {
+      "CodeURL": "https://github.com/NeuroTechX/moabb",
+      "Name": "moabb",
+      "Description": "Mother of All BCI Benchmarks",
+      "Version": "1.8.0dev0"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "10.1038/s41597-025-06039-9",
+      "URL": "https://doi.org/10.6084/m9.figshare.28632599"
+    },
+    {
+      "DOI": "doi:10.1038/s41597-025-06039-9"
+    }
+  ],
+  "PublicationYear": 2025,
+  "EthicsApprovals": [
+    "Conducted under the approved University of Kentucky Institutional Review Board (IRB) protocol #57031. Participants provided written consent for data collection and for de-identified data to be shared indefinitely (Thapa, Boggess & Bae 2025, Sci. Data, DOI 10.1038/s41597-025-06039-9)."
+  ],
+  "Version": "1.0.0"
 }
