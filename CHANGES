@@ -1,0 +1,7 @@
+1.0.1 2026-10-16
+  - sourcedata: added, for each of the 240 deposited .vhdr headers, the _eeg.eeg, _eeg.vmrk and
+    _events.tsv of the same run, and the root dataset_description.json (721 files, 8,221,655,266
+    bytes), unchanged from the figshare release 10.6084/m9.figshare.28632599 (members of
+    Freewill_EEG_Reaching_Grasping.zip, CRC-32 checked; zip md5 equal to figshare's).
+    moabb.datasets.Thapa2025 reads them to load a subject from this deposit's sourcedata/.
+    No existing file changed; the BIDS tree is unchanged.

@@ -1,0 +1,13 @@
+{
+	"Name": "A Large Electroencephalogram Database of Freewill Reaching and Grasping Tasks for Brain Machine Interfaces",
+	"BIDSVersion": "1.10.0",
+	"License": "CC BY 4.0 (Attribution 4.0 International)",
+	"DatasetType": "raw",
+	"Authors": [
+		"Bhoj Raj Thapa",
+		"John Boggess",
+		"Jihye Bae"
+	],
+	"DatasetDOI": "10.6084/m9.figshare.28632599",
+	"HowToAcknowledge": "Please cite the following data descriptor published on Nature Scientific Data titled 'A large electroencephalogram database of freewill reaching and grasping tasks for brain machine interfaces' by Bhoj Raj Thapa, John Boggess, and Jihye Bae."
+}

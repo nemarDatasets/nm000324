@@ -1,0 +1,91 @@
+onset	duration	trial_type	stim_file
+5.848	n/a	trial_start	stimuli/Start.wav
+9.420	n/a	Tgt3	
+17.608	n/a	trial_end	stimuli/End.wav
+24.684	n/a	trial_start	stimuli/Start.wav
+27.980	n/a	Tgt4	
+36.704	n/a	trial_end	stimuli/End.wav
+43.756	n/a	trial_start	stimuli/Start.wav
+47.236	n/a	Tgt2	
+55.756	n/a	trial_end	stimuli/End.wav
+62.820	n/a	trial_start	stimuli/Start.wav
+64.356	n/a	Tgt1	
+74.844	n/a	trial_end	stimuli/End.wav
+81.904	n/a	trial_start	stimuli/Start.wav
+85.856	n/a	Tgt4	
+93.932	n/a	trial_end	stimuli/End.wav
+100.988	n/a	trial_start	stimuli/Start.wav
+104.468	n/a	Tgt2	
+113.012	n/a	trial_end	stimuli/End.wav
+120.060	n/a	trial_start	stimuli/Start.wav
+126.356	n/a	Tgt1	
+132.084	n/a	trial_end	stimuli/End.wav
+139.164	n/a	trial_start	stimuli/Start.wav
+143.864	n/a	Tgt2	
+151.176	n/a	trial_end	stimuli/End.wav
+158.248	n/a	trial_start	stimuli/Start.wav
+160.316	n/a	Tgt4	
+170.256	n/a	trial_end	stimuli/End.wav
+177.332	n/a	trial_start	stimuli/Start.wav
+181.288	n/a	Tgt3	
+189.344	n/a	trial_end	stimuli/End.wav
+196.420	n/a	trial_start	stimuli/Start.wav
+201.452	n/a	Tgt2	
+208.424	n/a	trial_end	stimuli/End.wav
+215.560	n/a	trial_start	stimuli/Start.wav
+220.400	n/a	Tgt4	
+227.516	n/a	trial_end	stimuli/End.wav
+234.576	n/a	trial_start	stimuli/Start.wav
+238.512	n/a	Tgt3	
+246.588	n/a	trial_end	stimuli/End.wav
+253.652	n/a	trial_start	stimuli/Start.wav
+258.684	n/a	Tgt2	
+265.660	n/a	trial_end	stimuli/End.wav
+272.720	n/a	trial_start	stimuli/Start.wav
+276.320	n/a	Tgt1	
+284.752	n/a	trial_end	stimuli/End.wav
+291.808	n/a	trial_start	stimuli/Start.wav
+294.528	n/a	Tgt4	
+303.820	n/a	trial_end	stimuli/End.wav
+310.900	n/a	trial_start	stimuli/Start.wav
+313.988	n/a	Tgt2	
+322.892	n/a	trial_end	stimuli/End.wav
+329.992	n/a	trial_start	stimuli/Start.wav
+333.316	n/a	Tgt3	
+341.968	n/a	trial_end	stimuli/End.wav
+349.024	n/a	trial_start	stimuli/Start.wav
+354.284	n/a	Tgt4	
+361.064	n/a	trial_end	stimuli/End.wav
+368.124	n/a	trial_start	stimuli/Start.wav
+371.544	n/a	Tgt2	
+380.160	n/a	trial_end	stimuli/End.wav
+387.212	n/a	trial_start	stimuli/Start.wav
+389.676	n/a	Tgt1	
+399.232	n/a	trial_end	stimuli/End.wav
+406.312	n/a	trial_start	stimuli/Start.wav
+411.312	n/a	Tgt3	
+418.316	n/a	trial_end	stimuli/End.wav
+425.384	n/a	trial_start	stimuli/Start.wav
+429.704	n/a	Tgt2	
+437.408	n/a	trial_end	stimuli/End.wav
+444.472	n/a	trial_start	stimuli/Start.wav
+446.964	n/a	Tgt4	
+456.500	n/a	trial_end	stimuli/End.wav
+463.580	n/a	trial_start	stimuli/Start.wav
+469.164	n/a	Tgt1	
+475.600	n/a	trial_end	stimuli/End.wav
+482.648	n/a	trial_start	stimuli/Start.wav
+486.940	n/a	Tgt2	
+494.684	n/a	trial_end	stimuli/End.wav
+501.736	n/a	trial_start	stimuli/Start.wav
+504.948	n/a	Tgt4	
+513.756	n/a	trial_end	stimuli/End.wav
+520.820	n/a	trial_start	stimuli/Start.wav
+526.516	n/a	Tgt3	
+532.836	n/a	trial_end	stimuli/End.wav
+539.908	n/a	trial_start	stimuli/Start.wav
+545.116	n/a	Tgt1	
+551.928	n/a	trial_end	stimuli/End.wav
+558.988	n/a	trial_start	stimuli/Start.wav
+563.644	n/a	Tgt4	
+571.020	n/a	trial_end	stimuli/End.wav

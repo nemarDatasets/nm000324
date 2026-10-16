@@ -1,0 +1,61 @@
+onset	duration	trial_type	stim_file
+7.921	n/a	trial_start	stimuli/Start.wav
+9.359	n/a	Tgt1	
+19.433	n/a	trial_end	stimuli/End.wav
+26.523	n/a	trial_start	stimuli/Start.wav
+27.626	n/a	Tgt2	
+38.562	n/a	trial_end	stimuli/End.wav
+45.646	n/a	trial_start	stimuli/Start.wav
+46.524	n/a	Tgt4	
+57.704	n/a	trial_end	stimuli/End.wav
+64.755	n/a	trial_start	stimuli/Start.wav
+65.812	n/a	Tgt3	
+76.766	n/a	trial_end	stimuli/End.wav
+83.826	n/a	trial_start	stimuli/Start.wav
+85.392	n/a	Tgt4	
+95.918	n/a	trial_end	stimuli/End.wav
+102.915	n/a	trial_start	stimuli/Start.wav
+104.469	n/a	Tgt1	
+114.934	n/a	trial_end	stimuli/End.wav
+121.998	n/a	trial_start	stimuli/Start.wav
+123.086	n/a	Tgt2	
+134.029	n/a	trial_end	stimuli/End.wav
+141.073	n/a	trial_start	stimuli/Start.wav
+142.358	n/a	Tgt1	
+153.094	n/a	trial_end	stimuli/End.wav
+160.151	n/a	trial_start	stimuli/Start.wav
+161.609	n/a	Tgt2	
+172.178	n/a	trial_end	stimuli/End.wav
+179.217	n/a	trial_start	stimuli/Start.wav
+180.072	n/a	Tgt3	
+191.248	n/a	trial_end	stimuli/End.wav
+198.311	n/a	trial_start	stimuli/Start.wav
+200.110	n/a	Tgt4	
+210.352	n/a	trial_end	stimuli/End.wav
+217.410	n/a	trial_start	stimuli/Start.wav
+218.965	n/a	Tgt4	
+229.414	n/a	trial_end	stimuli/End.wav
+236.459	n/a	trial_start	stimuli/Start.wav
+237.311	n/a	Tgt1	
+248.475	n/a	trial_end	stimuli/End.wav
+255.523	n/a	trial_start	stimuli/Start.wav
+256.003	n/a	Tgt2	
+267.556	n/a	trial_end	stimuli/End.wav
+274.607	n/a	trial_start	stimuli/Start.wav
+276.009	n/a	Tgt3	
+286.667	n/a	trial_end	stimuli/End.wav
+293.727	n/a	trial_start	stimuli/Start.wav
+295.067	n/a	Tgt4	
+305.760	n/a	trial_end	stimuli/End.wav
+312.816	n/a	trial_start	stimuli/Start.wav
+314.474	n/a	Tgt1	
+324.839	n/a	trial_end	stimuli/End.wav
+331.896	n/a	trial_start	stimuli/Start.wav
+333.642	n/a	Tgt2	
+343.945	n/a	trial_end	stimuli/End.wav
+350.999	n/a	trial_start	stimuli/Start.wav
+352.315	n/a	Tgt4	
+363.013	n/a	trial_end	stimuli/End.wav
+370.064	n/a	trial_start	stimuli/Start.wav
+371.453	n/a	Tgt3	
+382.057	n/a	trial_end	stimuli/End.wav
